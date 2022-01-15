@@ -1,0 +1,21 @@
+.txt {
+    color: white;
+}
+
+a.nav-link:hover {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+a.navbar-brand:hover {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.ind {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 5px;
+    z-index: 1;
+}
